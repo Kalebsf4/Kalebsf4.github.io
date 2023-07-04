@@ -1,1 +1,3 @@
-theme: jekyll-theme-Slate
+# A first-level heading
+## A second-level heading
+> Socials 
